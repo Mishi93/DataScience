@@ -10,11 +10,11 @@ This repository contains all the files and code for the *IBM Applied Data Scienc
 
 The project involves:
 
-**Data Preprocessing:** Cleaning and transforming data to make it suitable for model training.
-**Feature Engineering:** Creating relevant features that enhance model accuracy.
-**Model Selection:** Experimenting with various machine learning models to make predictions.
-**Evaluation:** Assessing the performance of models using appropriate metrics.
-**Deployment:** Ensuring that the model can be used in a real-world application for SpaceX launch predictions.
+1.**Data Preprocessing:** Cleaning and transforming data to make it suitable for model training.
+2.**Feature Engineering:** Creating relevant features that enhance model accuracy.
+3.**Model Selection:** Experimenting with various machine learning models to make predictions.
+4.**Evaluation:** Assessing the performance of models using appropriate metrics.
+5.**Deployment:** Ensuring that the model can be used in a real-world application for SpaceX launch predictions.
 
 ## Objective
 
