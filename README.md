@@ -2,7 +2,7 @@
 
 SpaceX Landing Predictions
 
-![Logo](https://github.com/Mishi93/DataScience/blob/main/falcon9.png)
+![Logo](https://github.com/Mishi93/DataScience/blob/main/falcon9.png, height=20px, width=20px)
 
 ## Description
 
