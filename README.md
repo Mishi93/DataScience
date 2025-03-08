@@ -1,6 +1,4 @@
-# Project Title
-
-**SpaceX Landing Predictions**
+## SpaceX Landing Predictions
 
 <img src="https://github.com/Mishi93/DataScience/blob/main/falcon9.png" width="100" height="100">
 
