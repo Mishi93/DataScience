@@ -1,1 +1,1 @@
-This repository contains files for IBM Data Science Foundations and Applied Data Science specializations.
+This repository contains files for IBM Applied Data Science Capstone.
