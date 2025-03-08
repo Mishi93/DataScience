@@ -2,7 +2,7 @@
 
 SpaceX Landing Predictions
 
-![Logo](path/to/your/logo.png)
+![Logo](https://github.com/Mishi93/DataScience/blob/main/IBM.JPG)
 
 ## Description
 
