@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains all the files and code for the *IBM Applied Data Science Capstone* project, which focuses on predicting the success of SpaceX Falcon 9 rocket landings. The project aims to use data science techniques to build a predictive model that determines the likelihood of a successful landing based on historical flight data.
+This repository contains all the files and code for the *IBM Applied Data Science Capstone* project, which focuses on predicting the success of SpaceX Falcon 9 stage 1 rocket landings. The project aims to use data science techniques to build a predictive model that determines the likelihood of a successful landing based on historical flight data.
 
 The project involves:
 
@@ -16,4 +16,4 @@ The project involves:
 
 ## Objective
 
-The primary objective is to predict whether a Falcon 9 rocket landing will be successful or not based on flight related features.
+The primary objective is to predict whether a Falcon 9 stage 1 rocket landing will be successful or not based on flight related features.
