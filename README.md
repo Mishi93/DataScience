@@ -17,3 +17,11 @@ The project involves:
 ## Objective
 
 The primary objective is to predict whether a Falcon 9 stage 1 rocket landing will be successful or not based on flight related features.
+
+## Requirements
+
+python3.11 -m pip install pandas plotly dash
+wget "spacex_launch_dash.csv"
+python3.11 spacex-dash-app.py
+
+
