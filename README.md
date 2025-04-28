@@ -20,9 +20,9 @@ The primary objective is to predict whether a Falcon 9 stage 1 rocket landing wi
 
 ## Requirements
 
-1. python3.11 -m pip install pandas plotly dash
+1. python -m pip install pandas plotly dash
 2. wget "https://github.com/Mishi93/DataScience/blob/main/spacex_launch_dash.csv"
-3. wget :https://github.com/Mishi93/DataScience/blob/main/spacex-dash-app.py"
-4. python3.11 spacex-dash-app.py
+3. wget "https://github.com/Mishi93/DataScience/blob/main/spacex-dash-app.py"
+4. python spacex-dash-app.py
 
 
